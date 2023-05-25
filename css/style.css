@@ -390,9 +390,10 @@ section{}
 }
 #content3 .bxcover ul li .bxtextbox .bxt1{
   font-size: 1.3rem;
+  padding-top: 1.2rem;
 }
-#content3 .bxcover ul li .bxtextbox .bxt2{
-  margin: .3rem 0;
+#content3 .bxcover ul li .bxt2{
+  padding-top: 1.2rem;
 }
 #content3 .bxcover ul li .bxtextbox .bxt3{
   /* font-size: 1.5rem;
